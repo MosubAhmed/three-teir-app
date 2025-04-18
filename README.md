@@ -44,5 +44,12 @@ terraform init
 terraform plan
 terraform apply
 
+### Key Features:
+1. **Badges** - Visual tech stack indicators
+2. **Clear Sections** - Easy navigation
+3. **Code Blocks** - Ready-to-use commands
+4. **Structure Visualization** - Quick understanding of repo layout
+5. **Security Highlights** - DevSecOps emphasis
+6. **Contributing Guide** - Encourages collaboration
 
 
